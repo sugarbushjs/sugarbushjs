@@ -1,5 +1,5 @@
 # Sugarbush
-![logo.png](logo%2Flogo-sm.png)
+![logo.png](logo-sm.png)
 
 Official source code for [Sugarbush](https://github.com/sugarbushjs/sugarbush).
 Examples for [Surgarbush]:
