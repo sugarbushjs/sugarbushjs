@@ -2,7 +2,7 @@
 ![logo.png](logo-sm.png)
 
 Official source code for [Sugarbush](https://github.com/sugarbushjs/sugarbush).
-Examples for [Surgarbush]:
+
 
 **Sugarbush** is a performance enhancer for your react-redux application by replacing the redux
 <u>combinedReducers</u> with `switchback`. Switchback will only run the corresponding reducer that matches
